@@ -24,21 +24,20 @@ I started out learning MySQL before committing to PostgreSQL for its stronger an
 - Amazon E-Commerce Analysis — 11 business problems across a 9-table schema using advanced joins, CTEs, and aggregation. https://github.com/AjalaBolu/SQL-PROJECTS/tree/main/amazon-analysis
 - Zomato Restaurant Analysis — 10-table relational schema modeling a full food delivery system. https://github.com/AjalaBolu/SQL-PROJECTS/tree/main/zomato-restaurant-analysis
 - Netflix Content Analysis — 15 business problems using window functions and string parsing. https://github.com/AjalaBolu/SQL-PROJECTS/tree/main/netflix-analysis
-
+- Bank Customer Churn Analysis — 15 business questions on a single-table dataset covering churn segmentation, risk profiling, and conditional aggregation. https://github.com/AjalaBolu/SQL-PROJECTS/tree/main/Coustomer%20Churn%20prediction
 ## What I'm Currently Working On
 
-- Bank Customer Churn Analysis — single-table churn segmentation in PostgreSQL
 - Coffee Sales Analysis — 4-table schema covering revenue, customer, and product-level business questions
+- NYC Taxi Trip Analysis — time-series and window function heavy analysis on NYC yellow cab data
 
 ## Currently Learning
-
-- Git and version control workflows (wrapping up now)
+- Power BI 
 - Linux fundamentals and command-line proficiency
 - Advanced window functions and query optimization in PostgreSQL
 
 ## Up Next
 
-- Power BI and Tableau, to pair data visualization with my SQL analysis
+- Tableau, to pair data visualization with my SQL analysis
 
 ## Technical Skillset
 
